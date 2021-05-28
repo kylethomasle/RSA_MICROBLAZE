@@ -1,5 +1,6 @@
 # ECE4300 FALL GROUP E
 ## Rivest-Shamir-Adleman (RSA) Algorithm Implementation on MicroBlaze and Performance Analyzation 
+# Professor: Mohamed El-Hadedy (Aly): Assistant Professor, ECE-department, College of Engineering, California State Polytechnic University, Pomona 
 ### Members: Michael Becannon, Peter Chen, Logan Eldridge, Kyle Le, Kyle Montesanti, Orlando Moya
 
 ### Repository Overview 
